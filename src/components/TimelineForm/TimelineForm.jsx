@@ -12,7 +12,7 @@ const TimelineForm = () => {
           </p>
           <h2 className="text-3xl lg:text-4xl font-bold text-white">
             Mon{' '}
-            <span className="bg-gradient-to-r from-teal-400 to-violet-500 bg-clip-text text-transparent">
+            <span className="text-white">
               parcours
             </span>
           </h2>
